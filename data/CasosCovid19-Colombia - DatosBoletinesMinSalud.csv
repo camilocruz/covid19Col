@@ -1,6 +1,6 @@
 ,,,,,,,,,,,
 ,#Paciente ,Fecha,Nacionalidad,Genero,Rango Edad,Edad,Ubicacion,Tipo contagio,Origen Contagio,link minsalud,Descripcion  MinSalud
-,1,03/06/2020,Colombia,Mujer,Joven,19,Bogota,Foraneo,Italia,https://www.minsalud.gov.co/Paginas/Colombia-confirma-su-primer-caso-de-COVID-19.aspx,"La ciudadana, procedente de Milán, Italia, presentó síntomas y acudió a los servicios de salud donde se le tomaron las muestras para el análisis respectivo. Ante esto, el Instituto Nacional de Salud confirmó resultados positivos a las pruebas."
+1,1,03/06/2020,Colombia,Mujer,Joven,19,Bogota,Foraneo,Italia,https://www.minsalud.gov.co/Paginas/Colombia-confirma-su-primer-caso-de-COVID-19.aspx,"La ciudadana, procedente de Milán, Italia, presentó síntomas y acudió a los servicios de salud donde se le tomaron las muestras para el análisis respectivo. Ante esto, el Instituto Nacional de Salud confirmó resultados positivos a las pruebas."
 1,2,03/09/2020,Colombia,Mujer,Adulto,,Medellin,Foraneo,España,https://www.minsalud.gov.co/Paginas/Colombia-confirma-dos-nuevos-casos-de-COVID-19.aspx,mujer de 50 años en Medellín
 2,3,03/09/2020,Colombia,Hombre,Adulto,,Buga,Foraneo,España,https://www.minsalud.gov.co/Paginas/Colombia-confirma-dos-nuevos-casos-de-COVID-19.aspx,hombre de 34 años bugueño
 1,4,03/11/2020,Colombia,Hombre,Adulto Mayor,,Medellin,Relacionado,,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-seis-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,
@@ -46,31 +46,31 @@ Consultó el 9 de marzo por cuadro gripal. Presenta buen estado de salud con ais
 8,43,03/15/2020,Colombia,Hombre,Adulto,,Medellin,Foraneo,"España,Bosnia,Croacia",https://www.minsalud.gov.co/Paginas/Minsalud-confirma-diez-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,"Hombre adulto en Medellín con viaje previo a Europa (España, Bosnia y Croacia). Se encuentra en aislamiento supervisado en casa."
 9,44,03/15/2020,Colombia,Hombre,Adulto,,Bogota,Foraneo,España,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-diez-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Hombre adulto en Bogotá con viaje previo a España. Se encuentra en aislamiento supervisado en casa.
 10,45,03/15/2020,Colombia,Mujer,Joven,,Bogota,Foraneo,España,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-diez-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Mujer joven en Bogotá con viaje previo a España. Se encuentra en aislamiento supervisado en casa.
-1,46,03/16/2020,Colombia,Mujer,Adulta,,Bogota,Relacionado,,,Mujer adulta en Bogotá. Se trata de un caso relacionado y se encuentraen aislamiento supervisado en casa.
-2,47,03/16/2020,Colombia,Hombre,Adulto,,Bogota,Relacionado,,,Hombre adulto en Bogotá. Se trata de un caso relacionado y seencuentra en aislamiento supervisado en casa.
-3,48,03/16/2020,Colombia,Hombre,Adulto,,Bogota,Relacionado,,,Hombre adulto en Bogotá. Se trata de un caso relacionado y seencuentra en aislamiento supervisado en casa.
-4,49,03/16/2020,Colombia,Mujer,Adulta,,Bogota,Foraneo,España,,Mujer adulta en Bogotá con viaje previo a España. Se encuentra enaislamiento supervisado en casa.
-5,50,03/16/2020,Colombia,Mujer ,Adulta Mayor,,Bogota,Foraneo,España,,Mujer adulta mayor en Bogotá con viaje previo a España. Se encuentraen aislamiento supervisado en casa.
-6,51,03/16/2020,Colombia,Hombre,Joven,,Bogota,Foraneo,Ecuador,,Hombre joven en Bogotá con viaje previo a Ecuador. Se encuentra enaislamiento supervisado en casa.
-7,52,03/16/2020,Colombia,Hombre,Joven,,Bogota,Foraneo,España,,Hombre joven en Bogotá con viaje previo a España. Se encuentra enaislamiento supervisado en casa.
-8,53,03/16/2020,Colombia,Hombre,Adulto Mayor,,Bogota,Foraneo,España,,Hombre adulto mayor en Bogotá con viaje previo a España. Se encuentraen aislamiento supervisado en casa.
-9,54,03/16/2020,Colombia,Hombre,Adulto,,Bogota,Foraneo,España,,Hombre adulto en Bogotá con viaje previo a España. Se encuentra enaislamiento supervisado en casa.
-,55,,,,,,,,,,
-,56,,,,,,,,,,
-,57,,,,,,,,,,
-,58,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
+1,46,03/16/2020,Colombia,Mujer,Adulta,,Bogota,Relacionado,,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-nueve-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Mujer adulta en Bogotá. Se trata de un caso relacionado y se encuentraen aislamiento supervisado en casa.
+2,47,03/16/2020,Colombia,Hombre,Adulto,,Bogota,Relacionado,,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-nueve-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Hombre adulto en Bogotá. Se trata de un caso relacionado y seencuentra en aislamiento supervisado en casa.
+3,48,03/16/2020,Colombia,Hombre,Adulto,,Bogota,Relacionado,,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-nueve-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Hombre adulto en Bogotá. Se trata de un caso relacionado y seencuentra en aislamiento supervisado en casa.
+4,49,03/16/2020,Colombia,Mujer,Adulta,,Bogota,Foraneo,España,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-nueve-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Mujer adulta en Bogotá con viaje previo a España. Se encuentra enaislamiento supervisado en casa.
+5,50,03/16/2020,Colombia,Mujer ,Adulta Mayor,,Bogota,Foraneo,España,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-nueve-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Mujer adulta mayor en Bogotá con viaje previo a España. Se encuentraen aislamiento supervisado en casa.
+6,51,03/16/2020,Colombia,Hombre,Joven,,Bogota,Foraneo,Ecuador,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-nueve-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Hombre joven en Bogotá con viaje previo a Ecuador. Se encuentra enaislamiento supervisado en casa.
+7,52,03/16/2020,Colombia,Hombre,Joven,,Bogota,Foraneo,España,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-nueve-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Hombre joven en Bogotá con viaje previo a España. Se encuentra enaislamiento supervisado en casa.
+8,53,03/16/2020,Colombia,Hombre,Adulto Mayor,,Bogota,Foraneo,España,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-nueve-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Hombre adulto mayor en Bogotá con viaje previo a España. Se encuentraen aislamiento supervisado en casa.
+9,54,03/16/2020,Colombia,Hombre,Adulto,,Bogota,Foraneo,España,https://www.minsalud.gov.co/Paginas/Minsalud-confirma-nueve-nuevos-casos-de-coronavirus-(COVID-19)-en-Colombia.aspx,Hombre adulto en Bogotá con viaje previo a España. Se encuentra enaislamiento supervisado en casa.
+1,55,03/16/2020,Colombia,Mujer,Adulta Mayor,,Bogota,Foraneo,España,,
+2,56,03/16/2020,Colombia,Hombre,Adulto,,Bogota,Foraneo,España,,
+3,57,03/16/2020,Colombia,Hombre,Adulto,,Bogota,Relacionado,,,
+1,58,03/17/2020,Colombia,Hombre,Adulto,,Cartagena,Relacionado,,,
+2,59,03/18/2020,Colombia,Mujer,Adulta,,Barranqulla,Foraneo,España,,
+3,60,03/19/2020,Colombia,Mujer,Joven,,Bucaramanga,Foraneo,España,,
+4,61,03/20/2020,Colombia,Hombre,Joven,,Barranqulla,Foraneo,España,,
+5,62,03/21/2020,Colombia,Hombre,Adulto,,Cali,Foraneo,Italia,,
+6,63,03/22/2020,Colombia,Hombre,Joven,,Cali,Foraneo,Francia,,
+7,64,03/23/2020,Colombia,Hombre,Adulto,,Bogota,Foraneo,España,,
+8,65,03/24/2020,Colombia,Hombre,Adulto Mayor,,Bogota,Relacionado,,,
+9,66,,,,,,,,,,
+10,67,,,,,,,,,,
+11,68,,,,,,,,,,
+12,69,,,,,,,,,,
+13,70,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,·      
 ,,,,,,,,,,,
