@@ -1,4 +1,4 @@
-﻿ID de caso,Fecha de diagnóstico,Ciudad de ubicación,Departamento,Atención,Edad,Sexo,Tipo*,País de procedencia
+﻿ID de caso,Fecha de diagnóstico,Ciudad de ubicación,Departamento,Atención,Edad,Sexo,Tipo*
 1,2020-03-06,Bogotá,Bogotá,casa,10 a 19,F,Importado,
 2,2020-03-09,Buga,Valle,hospital,30 a 39,M,Importado,
 3,2020-03-09,Medellín,Antioquia,casa,50 a 59,F,Importado,
